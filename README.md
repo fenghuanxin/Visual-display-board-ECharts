@@ -2,4 +2,4 @@
 ---
 <br>
 
-<img src="C:\Users\55\Desktop\git-code\Visual-display-board-ECharts\images\result.jpg" alt="image" style="zoom:80%;" />
+<img src="https://github.com/fenghuanxin/Visual-display-board-ECharts/blob/master/images/result.jpg" alt="image" style="zoom:80%;" />
